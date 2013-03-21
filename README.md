@@ -1,7 +1,7 @@
 #KobitoHacks
 
 
-Kobit.app でプレビューにローカル画像を表示する SIMBL プラグインです。[EasySIMBL](https://github.com/norio-nomura/EasySIMBL/) などで読み込んでください。勢いで作ったのでソースかなり適当です。
+Kobito.app でプレビューにローカル画像を表示する SIMBL プラグインです。[EasySIMBL](https://github.com/norio-nomura/EasySIMBL/) などで読み込んでください。勢いで作ったのでソースかなり適当です。
 ファイル連携している場合相対パスで記述できます。ただし「../」とかやって上のフォルダは辿れません。同じフォルダかサブフォルダ限定です。
 
 特定のフォルダに画像を集めて、
@@ -20,7 +20,7 @@ Kobito.app の WebView は CSS などを読み込むために Kobito.app/Content
 
 SIMBL のロードタイミングが遅いので、最初に開いているプレビューには適用されません。
 
-Kobit 1.2.0 で動作確認
+Kobito 1.2.0 で動作確認
 
 #License
 MIT License
